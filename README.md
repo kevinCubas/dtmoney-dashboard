@@ -10,6 +10,8 @@ Some tools:
 - [MirageJS](https://miragejs.com) - Using this one
 - [MSW](https://mswjs.io/)
 
+HTTP Client
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ## Available Scripts
 
