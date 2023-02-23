@@ -1,17 +1,21 @@
 # DTMoney - Chapter II
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Simulating an API
+## Tools and Libs
+
+HTTP Client
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+Create Modal
+- [react-modal](https://github.com/reactjs/react-modal)
+
+### Simulating an API
 > A mock API server or mock server API imitates a real API server by providing realistic mock API responses to requests. They can be on your local machine or the public Internet. Responses can be static or dynamic, and simulate the data the real API would return, matching the schema with data types, objects, and arrays.
 
-Some tools:
+Some mocks:
 
 - [JSON Server](https://github.com/typicode/json-server)
 - [MirageJS](https://miragejs.com) - Using this one
 - [MSW](https://mswjs.io/)
-
-HTTP Client
-- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ## Available Scripts
 
