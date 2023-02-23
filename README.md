@@ -1,4 +1,7 @@
 # DTMoney - Chapter II
+
+A complete front-end web application - Dashboard - using important concepts and tools from the React ecosystem such as Styled Components, MirageJS, Context API, hooks, Axios and much more.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Tools and Libs
