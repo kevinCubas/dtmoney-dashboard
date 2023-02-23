@@ -6,14 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tools and Libs
 
-HTTP Client
-- [Axios](https://axios-http.com/ptbr/docs/intro)
-Create Modal
-- [react-modal](https://github.com/reactjs/react-modal)
-lightweight toolset
-- [polished](https://polished.js.org/)
-CSS-in-JS
-- [styled-components](https://styled-components.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro) HTTP Client
+- [react-modal](https://github.com/reactjs/react-modal) Create Modal
+- [polished](https://polished.js.org/) lightweight toolset
+- [styled-components](https://styled-components.com/) CSS-in-JS
 
 ### Simulating an API
 > A mock API server or mock server API imitates a real API server by providing realistic mock API responses to requests. They can be on your local machine or the public Internet. Responses can be static or dynamic, and simulate the data the real API would return, matching the schema with data types, objects, and arrays.
