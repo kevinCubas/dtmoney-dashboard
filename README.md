@@ -27,6 +27,12 @@ Some mocks:
 
 - [INTL](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) Docs
 
+## Context API
+
+> Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+
+- [Context-API](https://beta.reactjs.org/learn/passing-data-deeply-with-context)
+
 ## Available Scripts
 
 In the project directory, you can run:
