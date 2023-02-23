@@ -9,6 +9,8 @@ Create Modal
 - [react-modal](https://github.com/reactjs/react-modal)
 lightweight toolset
 - [polished](https://polished.js.org/)
+CSS-in-JS
+- [styled-components](https://styled-components.com/)
 
 ### Simulating an API
 > A mock API server or mock server API imitates a real API server by providing realistic mock API responses to requests. They can be on your local machine or the public Internet. Responses can be static or dynamic, and simulate the data the real API would return, matching the schema with data types, objects, and arrays.
@@ -18,6 +20,12 @@ Some mocks:
 - [JSON Server](https://github.com/typicode/json-server)
 - [MirageJS](https://miragejs.com) - Using this one
 - [MSW](https://mswjs.io/)
+
+## Formating - INTL
+
+> The **Intl** object is the namespace for the ECMAScript Internationalization API, which provides language sensitive string comparison, number formatting, and date and time formatting. The Intl object provides access to several constructors as well as functionality common to the internationalization constructors and other language sensitive functions.
+
+- [INTL](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) Docs
 
 ## Available Scripts
 
